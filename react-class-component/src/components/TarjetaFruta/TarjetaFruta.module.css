@@ -1,0 +1,11 @@
+.fruit-card{
+    border: 1px solid black;
+          margin-bottom:1em;
+          border-radius:0.5em;
+          padding: 1em;
+          transition: all 400ms ease-out;
+}
+.fruit-card-activa{
+    background: linear-gradient(45deg, black, #4a02f7);
+    color: #FFF;
+}
